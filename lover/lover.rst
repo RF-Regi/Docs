@@ -1,5 +1,5 @@
 ===============================
-   REALISTFORENINGENS LOVER
+   RF-REGIS LOVER
 ===============================
 ------------------------
 Vedtatt 18. April 2018
