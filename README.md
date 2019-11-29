@@ -2,5 +2,5 @@
 
 Siden inneholder vedtekter og Generalforsamlingens innkallelse
 
-*[Innkalling til generalforsamlingen høst 19](./generalforsamling/innkalling.pdf)  
+*[Innkalling til ekstraordinær generalforsamlingen høst 19](./generalforsamling/innkalling.pdf)  
 *[Vedtekter/lover](./lover/lover.pdf)
