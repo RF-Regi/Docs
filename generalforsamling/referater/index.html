@@ -104,7 +104,7 @@
       }
       (async () => {
         // Get GitHub repository file info
-          const response = await fetch('https://api.github.com/repos/rf-regi/Docs/generalforsamling/referater/contents/');
+          const response = await fetch('https://api.github.com/repos/rf-regi/Docs/contents/generalforsamling/referater/');
         const data = await response.json();
         // Initialize search fields and results
         const search_form = document.getElementById('search_form');
