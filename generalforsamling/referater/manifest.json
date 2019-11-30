@@ -1,6 +1,6 @@
 {
-  "short_name": "Recipes",
-  "name": "Recipes",
+  "short_name": "Referat",
+  "name": "Referater",
   "icons": [
     {
       "src": "./favicon-192.png",
@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/recipes/",
+  "start_url": "/referater/",
   "background_color": "#ff473e",
   "theme_color": "#ff473e",
   "display": "standalone",
-  "scope": "/recipes/"
+  "scope": "/referater/"
 }
