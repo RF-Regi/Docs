@@ -59,7 +59,7 @@
           const isPDF= (/.pdf$/).test(filePath);
           const isInFilter = filter.split(' ')
             .every((token) => fileName.indexOf(token.toLowerCase()) !== -1)
-          return isMarkdown && isNotLicense && isInFilter;
+          return isPDF && isNotLicense && isInFilter;
         }
       }
       // Match by closest to start of word then earliest word
