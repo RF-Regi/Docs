@@ -98,7 +98,7 @@
       const navigateToFile = (data, filter = '') => {
         files = data.filter(filterFiles(filter));
         if (files.length === 1) {
-          const fileName = files[0].path.replace('.pdf', '');
+          const fileName = files[0].path.split('/').pop()
           document.location = fileName;
         }
       }
