@@ -89,8 +89,8 @@
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.pdf', '');
-          const fileNamePices = fileName.split(/[\s,]+/);
-            const fileDisplayName = fileNamePices[fileNamePices.length-1].split('-').join(' ');
+          const fileNamePices = fileName.split('/').pop();
+          const fileDisplayName = fileNamePices.split('-').join(' ');
           htmlString += `<li><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
