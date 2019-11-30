@@ -8,9 +8,9 @@
     <title>Referater</title>
     <meta property="og:title" content="referater">
     <meta property="og:locale" content="en_US">
-    <meta property="og:url" content="https://www.rfregi.no/docs/">
+    <meta property="og:url" content="https://docs.rfregi.no/generalforsamling/referater/">
     <meta property="og:site_name" content="recipes">
-    <link rel="canonical" href="https://www.rfregi.no/docs/">
+    <link rel="canonical" href="https://docs.rfregi.no/generalforsamling/referater/">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="icon" href="./favicon.ico" type="image/png" />
     <link rel="manifest" href="./manifest.json">
@@ -89,7 +89,8 @@
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.pdf', '');
-          const fileDisplayName = fileName.split('/')[-1].split('-').join(' ');
+          const fileNamePices = fileName.split(/[\s,]+/);
+          const fileDisplayName = fileNamePices.pop().split('-').join(' ');
           htmlString += `<li><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
