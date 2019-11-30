@@ -89,7 +89,7 @@
         let htmlString = '';
         for (let file of data.filter(filterFiles(filter)).sort(sortFiles(filter))) {
           const fileName = file.path.replace('.pdf', '');
-          const fileDisplayName = fileName.split('-').join(' ');
+          const fileDisplayName = fileName.split('/')[-1].split('-').join(' ');
           htmlString += `<li><a href="${fileName}">${fileDisplayName}</a></li>`;
         }
         document.getElementById('list').innerHTML = htmlString;
@@ -98,7 +98,7 @@
       const navigateToFile = (data, filter = '') => {
         files = data.filter(filterFiles(filter));
         if (files.length === 1) {
-          const fileName = files[0].path.replace('.md', '');
+          const fileName = files[0].path.replace('.pdf', '');
           document.location = fileName;
         }
       }
