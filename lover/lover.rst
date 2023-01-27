@@ -2,7 +2,7 @@
    RF-REGIS LOVER
 ===============================
 ------------------------
-Vedtatt 18. April 2018
+Vedtatt 27. April 2022
 ------------------------
 
 
@@ -17,7 +17,8 @@ FORMÅL OG ORGANISASJON
 § 1 TILHØRIGHET
 ----------------
 
-RF-Regi er en undergruppe av Realistforeningen, fakultetsforening ved Det matematisk-naturvitenskapelig fakultetet, Universitet i Oslo
+RF-Regi er en undergruppe av Realistforeningen, fakultetsforening ved Det 
+matematisk-naturvitenskapelig fakultetet, Universitet i Oslo
 
 § 2 FORMÅL
 ----------------
@@ -36,7 +37,8 @@ til innkjøp av nytt utstyr.
 § 4 MEDLEMSKAP
 ----------------
 
-RF-Regi og Realistforeningen har felles medlemskap, så fremt det enkelte medlem av Realistforeningen samtykker til dobbelt medlemskap.
+RF-Regi og Realistforeningen har felles medlemskap, så fremt det enkelte medlem
+av Realistforeningen samtykker til dobbelt medlemskap.
 
 Medlemskap i RF-regi tilbys alle medlemmer i Realistforeningen.
 
@@ -56,17 +58,18 @@ over foreningens aktiva.
 ------------------
 
 a) Ved oppløsning av foreningen overføres alle eiendeler til 
-   Realistforeningen, og Realistforeningen  tar over utleievirksomheten av utstyret.
+   Realistforeningen, og Realistforeningen  tar over utleievirksomheten av
+   utstyret.
 
 #) Dersom Realistforeningen ikke ønsker å ta over utleievirksomheten skal
    Realistforeningen kalle inn til et møte hvor kjellerforeningene Samfunnsvitenskaplig 
    fakultetsforening, Medicinerforeningen, Kjellerutvalget, Filologisk 
    forening/Uglebo og Cybernetisk selskab skal
    bli enige om en omfordeling av utstyret. Om kjellerforeningene ikke blir enige,
-   tilfaller utstyret Kulturstyret ved Velferdstinget i Oslo og Akershus, som omfordeler utstyret blant kjellerforeningene 
-   etter eget forgodtbefinnende. Utstyrets verdi regnes etter prinsippet 
-   lineær årlig avskrivning. Utstyret kan ikke regnes mot eventuelle 
-   utestående fordringer foreningene har hos RF-Regi.
+   tilfaller utstyret Kulturstyret ved Velferdstinget i Oslo og Akershus, som 
+   omfordeler utstyret blant kjellerforeningene etter eget forgodtbefinnende. 
+   Utstyrets verdi regnes etter prinsippet lineær årlig avskrivning. Utstyret 
+   kan ikke regnes mot eventuelle utestående fordringer foreningene har hos RF-Regi.
 
 § 7 TAP AV UTSTYR
 -----------------
@@ -79,22 +82,29 @@ Eventuelle tap kan kreves dokumentert av en eller flere av kjellerforeningene.
 § 8 STYRET
 -----------
 
-a) Styret i RF-Regi består av: regiformann, forretningsfører, DJ-sjef og 
-   Realistforeningens formann.
+a) Styret i RF-Regi består av: regiformann, forretningsfører, utleieansvarlig, 
+   DJ-sjef og Realistforeningens formann.
 
-#) Regiformann og forretningsfører velges på generalforsamling for ett
-   år; regiformann om våren, forretningsfører om høsten. Realistforeningens formann er Realistforeningens representant. Styret kan tilknytte seg det antall funksjonærer styret finner nødvendig.
+#) Regiformann velges på vårens generalforsamling og sitter for ett år.
+   Regiformann er foreningens daglige leder og styreleder.
 
-#) DJ-sjef velges på generalforsamling og sitter for ett semester.
+#) Forretningsfører velges på høstens generalforsamling og sitter for ett år.
+   Forretningsfører er ansvarlig for foreningens økonomi og er foreningens nestleder.
 
-#) Regiformann er foreningens daglige leder og styreleder.
+#) Utleieansvarlig velges på generalforsamling og sitter for ett semester.
+   Utleieansvarlig har overordnet ansvar for drift av RF-Regis utleievirksomhet.
 
-#) Forretningsfører er foreningens nestleder.
+#) DJ-sjef velges på generalforsamling og sitter for ett semester. DJ-sjef er
+   ansvarlig for daglig drift av DJ-gruppen.
+
+#) Realistforeningens formann er Realistforeningens representant i styret.
 
 #) Regiformann og forretningsfører tegner sammen for foreningen.
 
-#) Styrets oppgave er å koordinere langsiktig virksomhet, godkjenne innkjøp
-   og representere foreningen utad.
+#) Styrets oppgave er å koordinere langsiktig virksomhet, vedlikeholde utstyr, 
+   godkjenne innkjøp og representere foreningen utad.
+
+#) Styret kan tilknytte seg det antall funksjonærer styret finner nødvendig.
 
 
 § 9 ERFARINGSOVERFØRING
@@ -234,8 +244,9 @@ a) Generalforsamlingen er foreningens høyeste myndighet i spørsmål som
    #. Valg av tillitsvalgte:
 
       #) Regiformann (§8b)
-      #) Forretningsfører (§8b)
-      #) DJ-sjef (§8b)
+      #) Forretningsfører (§8c)
+      #) Utleieansvarlig (§8d)
+      #) DJ-sjef (§8e)
 
 
 § 14 MISTILLIT
