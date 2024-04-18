@@ -19,7 +19,7 @@ jobs:
         python -m pip install --upgrade pip setuptools wheel
         python -m pip install docutils
     - name: Make TeX file
-      run:  rst2latex.py --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt --no-section-numbering lover/lover.rst > lover/lover.tex
+      run:  rst2latex --language=no --documentclass=scrartcl --documentoptions=a4paper,11pt --no-section-numbering lover/lover.rst > lover/lover.tex
     - name: Compile LaTeX document
       uses: xu-cheng/latex-action@v3
       with:
